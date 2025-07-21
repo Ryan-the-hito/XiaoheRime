@@ -1,4 +1,5 @@
-# XiaoheRime
+# 🐦XiaoheRime: A Character Code Bundle for Xiaohe Chinese Input Method on Rime
+
 这是一个在 rime-ice 基础上修改得来的小鹤双拼配置方案。增加了鹤形码、虎码和音调辅码。
 
 本项目基于[iDvel/rime-ice: Rime 配置：雾凇拼音 | 长期维护的简体词库](https://github.com/iDvel/rime-ice)修改，原项目遵循 GNU GPLv3 许可协议。本项目的所有修改部分同样遵循 GNU GPLv3 许可协议。
