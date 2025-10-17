@@ -1,0 +1,5 @@
+嘿哈猫	hwhamc	1000
+AppleScript	applescript	1000
+ChatGPT	chat	2000
+iPhone 17 Pro Max	iph	1000
+Apple	apple	1000

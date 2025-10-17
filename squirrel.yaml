@@ -1,12 +1,6 @@
 # Squirrel settings
 # encoding: utf-8
-
-# 本文件基于 iDvel 的 rime-ice 修改
-# 原始版权声明如下：
-# Copyright (C) 2022 iDvel
-# 本修改部分由 Ryan-the-hito 于 2025 完成
-# 依据 GNU General Public License v3.0 进行分发
-
+#
 # squirrel[.custom].yaml 是鼠须管的前端配置文件，小狼毫是 weasel[.custom].yaml
 # 各平台皮肤配置并不一致。
 #
@@ -143,10 +137,10 @@ preset_color_schemes:
     inline_preedit: true                    # 键入码（拼音）是否显示在键入位置 true | false
     inline_candidate: false                 # 候选项（词句）是否显示在键入位置 true | false
     candidate_format: "%c %@"
-    corner_radius: 10
+    corner_radius: 12
     border_height: -5
     border_width: 0
-    back_color: 0xFFFFFF         # 白色背景
+    back_color: 0x88FFFFFF         # 白色背景
     hilited_candidate_back_color: 0xeefa3a0a  # 高亮候选项浅灰色
     candidate_text_color: 0x222222          # 候选项深灰色
     hilited_candidate_text_color: 0xffffff  # 高亮候选项黑色
@@ -162,11 +156,12 @@ preset_color_schemes:
     label_font_point: 12
     comment_font_face: "Helvetica Neue, Helvetica, Arial, PingFang SC, sans-serif"
     comment_font_point: 14
-    translucency: false
+    translucency: true
     shadow_size: 0
     spacing: 10
     line_spacing: 5
     base_offset: 0
+    hilited_corner_radius: 10
   
   # 下面是内置的皮肤 https://github.com/rime/squirrel/blob/master/data/squirrel.yaml
 
