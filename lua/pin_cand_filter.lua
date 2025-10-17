@@ -1,3 +1,9 @@
+-- 本文件基于 iDvel 的 rime-ice 修改
+-- 原始版权声明如下：
+-- Copyright (C) 2022 iDvel
+-- 本修改部分由 Ryan-the-hito 于 2025 完成
+-- 依据 GNU General Public License v3.0 进行分发
+
 -- 置顶候选项
 --[[
 《说明书》

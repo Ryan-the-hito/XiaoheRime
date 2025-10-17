@@ -1,6 +1,12 @@
 # Rime schema
 # encoding: utf-8
 
+# 本文件基于 iDvel 的 rime-ice 修改
+# 原始版权声明如下：
+# Copyright (C) 2022 iDvel
+# 本修改部分由 Ryan-the-hito 于 2025 完成
+# 依据 GNU General Public License v3.0 进行分发
+
 # 复制自 rime_ice.schema.yaml ，适配了双拼。
 # 双拼键位映射复制自 https://github.com/rime/rime-double-pinyin
 # 双拼之间主要就是 speller/algebra 和 translator/preedit_format 这里有区别。
